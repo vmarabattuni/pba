@@ -1,0 +1,14 @@
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\bin\Debug\PhoneBook.DAL.dll.config
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\bin\Debug\PhoneBook.DAL.dll
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\bin\Debug\PhoneBook.DAL.pdb
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\bin\Debug\EntityFramework.dll
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\bin\Debug\EntityFramework.xml
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\obj\Debug\PhoneBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\obj\Debug\PhoneBook.DAL.csproj.CopyComplete
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\obj\Debug\PhoneBook.DAL.dll
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\obj\Debug\PhoneBook.DAL.pdb
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\obj\Debug\PhoneBookWebApp.Migrations.initial_migration.resources
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\obj\Debug\PhoneBook.DAL.csproj.GenerateResource.cache
+C:\Users\vmarabattuni\source\repos\PhoneBook.DAL\obj\Debug\PhoneBook.DAL.Migrations.newmigration.resources
